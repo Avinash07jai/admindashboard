@@ -1,0 +1,22 @@
+.navbar {
+    flex: 5;
+
+}
+
+.subnav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2D3435;
+    width: 94%;
+    height: 50px;
+    margin-left: 3%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.navIcon {
+    color: #fff;
+    width: 22px;
+    height: 22px;
+    margin-left: 12px;
+}

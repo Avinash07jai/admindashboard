@@ -1,0 +1,27 @@
+
+.sidebar{
+    flex: 1;
+    background-color: #2D3435;
+    position: sticky;
+    /* overflow-y: scroll; */
+    height: calc(100vh - 1px);
+}
+
+li{
+    list-style: none;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo-icon{
+    color: #fff;
+    width: 20px;
+    margin: 3px;
+}

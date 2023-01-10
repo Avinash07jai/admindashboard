@@ -1,0 +1,20 @@
+
+.introContainer{
+    width: 42%;
+    height: 24vh;
+    background-color: #283026;
+    border-radius: 10px;
+    display: flex;
+}
+
+span{
+    color: #1BDCA2;
+}
+
+.itemsContainer{
+    width: 52%;
+    height: 24vh;
+    background-color: #283026;
+    margin-left: 25px;
+    border-radius: 10px;
+}
